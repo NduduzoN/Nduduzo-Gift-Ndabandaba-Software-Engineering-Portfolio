@@ -2,7 +2,7 @@ export const projects = [
   {
     title: 'Clean Cuts',
     description: "Using PHP MVC to manage model,view,and controler ,I used a combination of bootstrap and css stylsheet to make everything beautiful, and mysqli for the database ",
-      image: 'Nduduzo-Gift-Ndabandaba-Software-Engineering-Portfolio/public/images/1.JPG',
+      image: '/public/images/1.JPG',
       tags: ['PHP MVC', 'CSS', 'Bootstrap', 'HTML'],
     source: 'https://google.com',
     visit: ' https://github.com/NduduzoN/cleanCuts.git',
