@@ -14,7 +14,7 @@ export const projects = [
     image: '/images/one.jpg',
     tags: ['Javascript', 'CSS', 'Next.js', 'HTML'],
     source: 'https://nduduzo-gift-ndabandaba-software-engineering-portfolio.vercel.app/',
-    visit: ' Nduduzo-Gift-Ndabandaba-Software-Engineering-Portfolio',
+    visit: ' https://github.com/Nduduzo-Gift-Ndabandaba-Software-Engineering-Portfolio',
     id: 0,
   }
 ];
