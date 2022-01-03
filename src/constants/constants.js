@@ -7,7 +7,7 @@ export const projects = [
     source: 'https://google.com',
     visit: ' https://github.com/NduduzoN/cleanCuts.git',
     id: 0,
-  }
+  },
   {
     title: 'This portfolio page',
     description: "I used react.js(Next.js) ,CSS, and HTML",
