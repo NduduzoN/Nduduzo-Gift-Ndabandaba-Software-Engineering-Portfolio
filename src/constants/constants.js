@@ -10,7 +10,7 @@ export const projects = [
   },
   {
     title: 'This portfolio page',
-    description: "I used react.js(Next.js) ,CSS, and HTML",
+    description: "I used react.js(Next.js) framework, CSS, and HTML to make smooth and responsive components",
     image: '/images/one.jpg',
     tags: ['Javascript', 'CSS', 'Next.js', 'HTML'],
     source: 'https://nduduzo-gift-ndabandaba-software-engineering-portfolio.vercel.app/',
