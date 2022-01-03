@@ -1,11 +1,20 @@
 export const projects = [
   {
     title: 'Clean Cuts',
-    description: "I sing PHP MVC to manage model, view, and controler, I used a combination of bootstrap and css stylsheet to make everything beautiful, and mysqli for the database ",
+    description: "I used PHP MVC to manage the model, view, and controler, I used a combination of bootstrap and css stylsheet to make everything beautiful, and mysqli for the database ",
     image: '/images/one.jpg',
     tags: ['PHP MVC', 'CSS', 'Bootstrap', 'HTML'],
     source: 'https://google.com',
     visit: ' https://github.com/NduduzoN/cleanCuts.git',
+    id: 0,
+  }
+  {
+    title: 'This portfolio page',
+    description: "I used react.js(Next.js) ,CSS, and HTML",
+    image: '/images/one.jpg',
+    tags: ['Javascript', 'CSS', 'Next.js', 'HTML'],
+    source: 'https://nduduzo-gift-ndabandaba-software-engineering-portfolio.vercel.app/',
+    visit: ' Nduduzo-Gift-Ndabandaba-Software-Engineering-Portfolio',
     id: 0,
   }
 ];
