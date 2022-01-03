@@ -31,7 +31,7 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            Experience with <br />
+            SQL <br />
             Node and Databases <br />
             PHP MVC 
           </ListParagraph>

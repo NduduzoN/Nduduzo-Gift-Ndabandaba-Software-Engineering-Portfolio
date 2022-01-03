@@ -8,13 +8,10 @@ const Hero = (props) => (
       <LeftSection>
         <SectionTitle main center>
           Nduduzo Gift Ndabandaba<br />
-          Software Dev Portfolio
+          Software Developer Portfolio
         </SectionTitle>
         <SectionText>
-        I would describe myself as a young man with sunshine for a personality,
-         I especially enjoy being in a team and building synergy towards achieving a common goal
-         , I want to be a SovTech developer in order to gain the skills necessary to produce systems
-          and web applications that solve current problems and at the same time be doing something that I love
+        I would describe myself as a young man with sunshine for a personality, I especially enjoy being in a team and building synergy towards achieving a common goal, with years of grooming and refining my skills in software and web development, I am confident that I will be a perfect fit for your company, my education has provided me with the innovation and technical skills necessary to successfully provide your company with technical solutions across a wide range of software platforms.
         </SectionText>
       </LeftSection>
     </Section>
