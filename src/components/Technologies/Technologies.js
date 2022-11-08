@@ -31,9 +31,9 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            SQL <br />
-            Node and Databases <br />
-            PHP MVC 
+            C#, ASP.NET Core <br />
+            Node <br />
+            REST API <br /> 
           </ListParagraph>
         </ListContainer>
       </ListItem>      
