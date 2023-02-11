@@ -20,7 +20,10 @@ const Technologies = () =>  (
           <ListParagraph>
             React.js <br />
             Next.js <br />
-            Bootstrap
+            Bootstrap <br />
+            Razor Pages <br />
+            CSS <br />
+            HTML <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>
@@ -31,12 +34,27 @@ const Technologies = () =>  (
         <ListContainer>
           <ListTitle>Back-End</ListTitle>
           <ListParagraph>
-            C#, ASP.NET Core <br />
-            Node <br />
+            C#,Javascript,PHP <br />
+            ASP.NET Core <br />
+            SQL Server <br />
+            MongoDB <br />
             REST API <br /> 
           </ListParagraph>
         </ListContainer>
-      </ListItem>      
+      </ListItem>  
+      <ListItem>
+        <picture>
+          <DiFirebase size="3rem" />
+        </picture>
+        <ListContainer>
+          <ListTitle>Dev Ops</ListTitle>
+          <ListParagraph>
+            Azure DevOps <br />
+            Microsoft Azure Cloud <br />
+            Agile Methodology<br /> 
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>    
     </List>
     <SectionDivider colorAlt />
   </Section>
