@@ -11,7 +11,7 @@ export const projects = [
   },
   {
     title: 'TaxCalculator REST API',
-    description: "Created a API which calculates a persons tax according to their piostal code",
+    description: "Created a API which calculates a persons tax contribution according to their postal code",
     image: '/images/taxcalcapi.png',
     tags: ['ASP .NET CORE Web API',"C#", 'SQL Server','JWT','XUnit','Azure','CI/CD','Github','Azure Key Vualt','YML'],
     source: 'https://github.com/NduduzoN/TaxCalculator.git',
