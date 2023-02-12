@@ -39,6 +39,7 @@ const Technologies = () =>  (
             SQL Server <br />
             MongoDB <br />
             REST API <br /> 
+            TDD <br />
           </ListParagraph>
         </ListContainer>
       </ListItem>  
