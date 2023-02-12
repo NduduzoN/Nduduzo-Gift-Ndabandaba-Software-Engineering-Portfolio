@@ -30,10 +30,10 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2015, text: 'Went to Tshwane University of Technology For Software dev National Deploma', },
+  { year: 2015, text: 'Went to Tshwane University of Technology For Software Dev National Deploma', },
   { year: 2017, text: 'Worked for the Univeristy Health and wellness department', },
-  { year: 2019, text: 'Tought myself javascript ES6', },
-  { year: 2020, text: 'Completed my studies at the Tshwane University of Technology', },
+  { year: 2018, text: 'Wrote my first ecommerce fullstack web application for a friends small business', },
+  { year: 2020, text: 'Completed my studies at the Tshwane University of Technology and started my inservice training', },
   { year: 2021, text: 'Graduated for Software Dev National Deploma ,while working for Gold Valley Casinos as a CCTV Operator', },
-  { year: 2022, text: 'Started a fullstack web developer Job at Payspace(Insight IT Solutions)', },
+  { year: 2022, text: 'Started a fullstack engineer Job at Payspace(Insight IT Solutions)', },
 ];
