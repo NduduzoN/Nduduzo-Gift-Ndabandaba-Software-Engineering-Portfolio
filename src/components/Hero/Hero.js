@@ -11,8 +11,7 @@ const Hero = (props) => (
           Software Developer Portfolio
         </SectionTitle>
         <SectionText>
-        I would describe myself as a young man with sunshine for a personality, I especially enjoy being in a team and building synergy towards achieving a common goal, with years of grooming and refining my skills in software and web development, I am confident that I will be a perfect fit for your company, my education has provided me with the innovation and technical skills necessary to successfully provide your company with technical solutions across a wide range of software platforms.
-        </SectionText>
+        With years of grooming and refined my skills in full-stack web development, I am confident I will be an excellent fit for your company. My curiosity has provided me with the innovative skills necessary to successfully provide your company with technical solutions across a wide range of software platforms. I am aware of the need to consistently evolve as a developer, it would be a pleasure to learn more from your company, I would welcome the chance to provide further insight into my knowledge of software development, technical abilities, and personal attributes. </SectionText>
       </LeftSection>
     </Section>
   </>
