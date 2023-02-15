@@ -101,9 +101,11 @@ transition: 0.5s;
 `;
 
 export const TagList = styled.ul`
-display: flex;
-justify-content: space-around;
+display: grid;
 padding: 2rem;
+grid-template-columns: repeat(4, 1fr);
+gap: 10px;
+margin: 2rem 0;
 `
 export const Tag = styled.li`
 color: #d8bfbf;
