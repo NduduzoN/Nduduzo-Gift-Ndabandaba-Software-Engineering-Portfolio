@@ -3,7 +3,11 @@ export const projects = [
   
   {
     title: 'TaxCalculator REST API',
+<<<<<<< HEAD
     description: "Created a Web API which calculates a persons tax according to their postal code,the API is secured using JWT Token Based Authentication which is role bassed,sign in is created for admin users,deployed using CI/CD piplines on Azure DevOps and Azure App service",
+=======
+    description: "Created a API which calculates a persons tax contribution according to their postal code",
+>>>>>>> 0cd02f58132c5fb96091af111c6078499b9f5fbf
     image: '/images/taxcalcapi.png',
     tags: ['ASP .NET CORE',"C#", 'SQL Server','SQL','JWT','XUnit','Azure','CI/CD','Github','Azure Key Vualt','YML'],
     source: 'https://github.com/NduduzoN/TaxCalculator.git',
