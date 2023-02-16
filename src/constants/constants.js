@@ -12,7 +12,7 @@ export const projects = [
   },
   {
     title: 'TaxCalculator Web App',
-    description: "Created client side application that connects to the Tax Calculator API I created to calculate a persons tax contribution,deployed using CI/CD piplines on Azure DevOps and Azure App service",
+    description: "Created client side application to consume the Tax Calculator API I created to calculate a persons tax contribution,deployed using CI/CD piplines on Azure DevOps and Azure App service",
     image: '/images/taxCalcPic.png',
     tags: ['MVC',"C#", 'CSS','Bootstrap','JSON', 'HTML','CI/CD','Azure'],
     source: 'https://github.com/NduduzoN/TaxCalculator.git',
@@ -21,7 +21,7 @@ export const projects = [
   },
   {
     title: 'Portfolio Page',
-    description: "I used react.js(Next.js) framework, CSS, and HTML to make smooth and responsive components",
+    description: "I used react.js(Next.js), CSS, and HTML to make smooth and responsive components",
     image: '/images/devportfoliopic.png',
     tags: ['Javascript', 'CSS', 'Next.js', 'HTML','React'],
     source: 'https://github.com/NduduzoN/Nduduzo-Gift-Ndabandaba-Software-Engineering-Portfolio',
