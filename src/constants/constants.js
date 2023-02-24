@@ -7,7 +7,7 @@ export const projects = [
     image: '/images/taxcalcapi.png',
     tags: ['ASP .NET CORE',"C#", 'SQL Server','SQL','JWT','XUnit','Azure','CI/CD','Github','Azure Key Vualt','YML'],
     source: 'https://github.com/NduduzoN/TaxCalculator.git',
-    visit: 'https://taxcalculatorapi.azurewebsites.net',
+    visit: 'https://taxcalculatorapi.azurewebsites.net/swagger/index.html',
     id: 0,
   },
   {
